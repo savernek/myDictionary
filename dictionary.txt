@@ -40,6 +40,11 @@ bard=poet(for prince....)
 root - ego = egotist, egoist, egocentric, alter ego, egomaniac
 alter ego - secondary personality, alternate personality of a person - "in the flesh she is a million miles from her photographic alter ego"
 root - anthropos = anthropology, misanthropy(a dislike of humankind, cynical, scepticism), anthropomorphic(having human characteristics), anthropoid(resembling human being in form(anthropoid gods), a higher primate, especially an ape or apeman), 
+
+ardour = great entusiasm or passion
+vehemence = great forcefulness or intensity of feeling or expression.
+
+
 coterie=a small group of people which share interests or tastes, especially one that is exclusive of other people
 asceticiscm=severe self-discipline and avoiding of all forms of indulgence, typically for religious reasons, frugal(of plain and simple)
 scathing=witheringly scornful, severely critical, scorching, searing, savage, blistering, mordacious
@@ -70,10 +75,11 @@ demagogue = leader  of the people, one who is known for exciting the passion of 
 rabbble = mass
 perpetrator = one who is guilty of a crime
 spendthrift = lavish, extravagant, one who spends money wastefully, improvidently
+providence = kismet, fate, destiny... (Vidhi - Kannada)
 countrified sorroundings = rural, rustic, unsophiscated.
 gourmet = connoiseur of good food, someone who takes his food seriously
 connoiseur = one who is an expert in a field and who's opinions are respected or taken seriously, mostly to do with art and taste.
-magnanious action = Noble and generous in spirit, he thinks himself ardent, impulsive, passionate -  capable of boundless enthusiasm for an idea or a sentiment.
+magnanimous action = Noble and generous in spirit, he thinks himself ardent, impulsive, passionate -  capable of boundless enthusiasm for an idea or a sentiment.
 clandestine(clandestine meeting) = secret, not recognize as a regular member
 the apethetic citizen = indifferent(not caring or concerned)
 status quo = the way things are as opposed to how they could be
@@ -92,14 +98,15 @@ vicarious enjoyment (people experience vicarious enjoyment through watching tele
 atone = to make reparations, compensation for a crime committed.
 psychgenic ailment
 anachronous = not belonging to this time
-her iconoclastic phse = being agaist tradition
+her iconoclastic phase = being agaist tradition
 tyro = novice
 dabbler = one with superficial interest in something(not a serious one)
 laconic = one who speaks little
 laconic reply = immediate(I assue it is correct)
 cavalier = to not give importance to something that deserves a lot of attention
 precarious = dangerously insecure, unstable, perilous
-a postumus child
+peril = serious and immediate danger.
+a postumus child = occurring, awarded, or appearing after the death of the originator. born after death of its father
 cranky = weak, not in good shape to work
 gregarious =  a very sociable
 phelgmatic = emotionally unresponsive
@@ -109,7 +116,7 @@ egragious error = oustanding error
 cacaphony = antonym is euphony, unpleasant noises, harsh sound
 a prurient adolescent = itching, uneasy with desire, lustful
 uxorious husband = overly devoted, submissive to one's wife
-clumsy = awkward, lacking grace, dextrous
+clumsy = awkward, lacking grace
 henpecked = uxorious
 nag = to repeatedly complain on silly matters, for example wife to her husband
 guilty of infidelity = unfaithfullness in a relationship
@@ -117,6 +124,7 @@ doting on his wife = (dotty means a little bit insance)
 tightfisted, penny-pinching = reluctant to spend money, tightfisted
 growl = a sound made in the throat by an animal
 dwindle = reduce in size, diminish, shrink, to fall away in quality
+swindle = use deception to deprive (someone) of money or possessions; a fraudulent scheme or action.
 endow = to furnish with money or equivalent;
 obscure = hidden inconspicuous
 conspicuous = easy to notice, obvious, (he was very conspicuous by his absense)
@@ -125,6 +133,7 @@ discernible = detectable or derivable by means of senses or intellect
 poring over a dictionary
 unabridged = complete, not shortened
 compulsive drive
+compulsive = resulting from or relating to an irresistible urge.
 those who have consitituted that lack of learning becomes a nuisance
 insidious= producing harm in a stealthy manner
 spouting airy theory =  
@@ -141,19 +150,32 @@ contemplate = to think about something at a length, observe thoughtfully
 
 aboveboard = legitemate, honest
 
+ ---- "legitimate, honest, and open.
+"certain transactions were not totally above board"
+synonyms:	honest, fair, open, frank, straight, overt, candid, forthright, unconcealed, trustworthy, unequivocal; legal, legitimate, lawful, licit; informallegit, kosher, pukka, by the book, fair and square, square, on the level, on the up and up, upfront
+"he had set up a chain of more or less above-board casinos"
+honestly, fairly, openly, frankly, overtly, candidly, forthrightly, unequivocally;
+legally, legitimately, lawfully
+"it's imperative that you play it all above board"
+antonyms:	dishonest, shady, dishonestly, shadily"
+
+
+
 nauseam = in Latin it means disgust - that has continued so long that it has continued "to [the point of] nausea".
 
 futile = disparage
 solitude = alone
-inhibit = 
-propriety = 
+inhibit = hinder, prevent, restrain
+propriety = relating to an owner or ownership.
 
 cynical, embittered
+cynical = 
+embittered = believing that people are motivated purely by self-interest; distrustful of human sincerity or integrity; concerned only with one's own interests and typically disregarding accepted standards in order to achieve them; "a cynical manipulation of public opinion"; "he was brutally cynical and hardened to every sob story under the sun".
 perfectibility = 
 crookedness
 
 sometime in your dim past, you were crossed, scorned, or deeply wounded by a woman
-heir = 
+heir = successor
 abstinence
 
 reinforce = 
@@ -169,7 +191,8 @@ convention = a large conference
 altercation = it is stronger than quarrel, dispute - here is the sentiment is more heated.
 
 disputant = one who is engaged in a dispute
-recourse = a source of help in a difficult situation
+recourse = a source of help in a difficult situation - "surgery may be the only recourse"
+         = the legal right to demand compensation or payment. - "the bank has recourse against the exporter for losses incurred"
 profanity = blasphemous or obscene languge
 blasphemous = sacrilegious
 obscenity = 
@@ -263,7 +286,10 @@ hermit = a person living in solitude as a religious discipline
 A monk lives a lonely life--not for him the pleasures of the fleshpots, the laughter and merriment of convivial gatherings, the dissipation of high living. Rather, days of contemption, study, and rough toil, nights on a hard bed in a simple cell, and the kind of self-denial that leads to a purification of the soul.
 
 fleshpots=
-merriment = 
+merriment = gaiety and fun - "her eyes sparkled with merriment"
+          = synonyms:	high spirits, high-spiritedness, exuberance;
+            antonyms:	doom and gloom, misery
+
 convivial = friendly, lively, enjoyable
 dissipation = overindulgence in sensual pleasure, a dissipated living, the squandering of money, resources, or energy
 squander = waste in a reckless and foolish manner
@@ -283,14 +309,15 @@ is self-analytical = introvert
 anthropocentric = 
 andromania = 
 gynandrous = 
-monomania = 
+monomania = exaggerated or obsessive enthusiasm for or preoccupation with one thing; fixation - "she has an obsession with the drug that verges on monomania"
+
 misandrist = 
 
 
 vermouth into marini = vermouth = red white wine...
 cinch = an extremely easy task
 acquitting yourself credibly
-
+acquit = free (someone) from a criminal charge by a verdict of not guilty. 
 
 
 DOCTORS ............
@@ -298,13 +325,19 @@ DOCTORS ............
 internist = medical specialist in internal diseases - performing tests - X ray, blood chemistry, urinanalysis, chardiogram, and so on.
 whooping = whupping(a whupping defeat)
 whooping cough = pertussis = a disease of the respiratory mucus membrane
-whupp
-lethargic = 
-piecemeal = 
+whup = beat; thrash- defeat convincingly.
+
+lethargic = affected by lethargy; sluggish and apathetic.
+letharge = a lack of energy and enthusiasm.
+
+piecemeal = characterized by unsystematic partial measures taken over a period of time - "the village is slowly being killed off by piecemeal development".
+ 
 significantly cut-up a manuscript
-spasmodically = 
+spasmodically = occurring or done in brief, irregular bursts.
+
 malady = disease or ailment
-mumps = 
+mumps = a contagious and infectious viral disease causing swelling of the parotid salivary glands in the face, and a risk of sterility in adult males.
+parotid = relating to, situated near, or affecting a parotid gland.
 measles = a viral infection affecting salivary glands, 
 inoculations = vaccination
 mortality
@@ -324,6 +357,427 @@ crusty = having or acting as a hard outer layer or covering.
 "a crusty old Scots judge" : synonyms: irritable, bad-tempered, grumpy, grouchy, crochety, tetchy, testy, ill-tempered, ill-natured, peevish, pettish, crabbed, crabby, waspish, prickly, short-tempered, quick-tempered, choleric...
 pustule = pimple containing pus
 psoriasis = a skin disease marked by red itchy, scaly patches.
+astigmatism = a defect in the eye or in a lens caused by a deviation from spherical curvature, which results in distorted images, as light rays are prevented from meeting at a common focus.
+gloucoma = a condition of increased pressure within the eyeball, causing gradual loss of sight.
+myopia
+hypermetropia
+administer = to apply, manage or be responsible for running a business, dispense or apply(a remedy or a drug).
+dispense = to distribute to a number of people,
+           to get rid of - "let's dispense the formalities, shall We?"
+
+opthalmologist
+clubfoot = a deformed foot which is twisted so that the sole cannot be placed flat on the ground;
+sole = the undersurface of a person's foot;
+     = put a new sole on to (a shoe) - "he wanted several pairs of boots to be soled and heeled"
+
+orthopedist = he uses "braces" or other appliances
+Does your heart go pitter-patter = Cardiologist
+pitter-patter = a sound like that of quick light steps or taps.
+                "the rain pitter-pattered on my windows"
+
+Are you neurotric? = having, caused by, or relating to neurosis "I wasn't going to be labelled as a neurotric"
+alleviate = make(suffering, problem, disease) less severe.
+electroshock
+intimate = closely acquainted with, familiar, private and personal, a very close friend - "his circle of intimates"
+
+diagnosis = the identification of the nature of an illness or other problem by examination of the symptoms.
+tense = I was/became tense(n). Her body tensed up
+       in first sentense tense is used as an adjective.
+
+"You should stick with "I'm tense." The word tense is an adjective and it basically means that you are nervous. It is connected with mental tension, and it is not something that would normally be voluntary.
+
+Using 'tensed' would suggest that you have voluntarily flexed your muscles in preparation for something.."
+
+internist - Root : Latin : internus - inside;
+apprenticeship = trainee - "medical graduate serving an apprehenticeship"
+apprehend = arrest for a crime, understand or perceive
+
+gynecologist = Greek - gyny = woman, logos = science;
+adj - gynecological;
+
+obstetrician = Latin = obstetrix = midwife, which intern has the root in Latin verb meaning to statd = midwives stand infront of the woman in labor to aid in the delivery of the infant.
+the suffix ician meaning expert - musician, electrician, magician
+specialty = another form of 
+
+"he had to brave considerable medical contempt"
+adj - obstetical
+
+Pediatrician = Greek paidos = Child
+iatria = medical healing
+ician = expert;
+
+Pediatrics = by etymology is a medical healing of a child- adjective pediatric
+
+The ped = you see in words like pedestal, pedal, and pedestrician is from the Latin pedis = Foot
+pedestal =(noun) the base or support on which a statue is mounted - "a bronze bust on a marble pedestal", adjective(set or support on a pedestal) - "pedestalled dishes"
+pedagogy = paidos + agogos = leading => leading of children, refers to the principles and methods of teaching. College students majoring in education take certain standard pedagogy courses - the history of education; educational psychology; the psychology of adolescents; etc.
+Adj = pedagogical;
+
+A pedagougue is versed in pedagogy, but in modern english it has become = "a teacher, especially a strict or pedantic one" = narrow-minded, staight-laced, old-fashioned, dogmatic teacher.
+pedantic = excessively concerned with minor details or rules; overscrupulous.
+
+similarly demogogue
+demos = people, agagos = leading = but now the meaning has deteriorated.
+demogogue = a person who foments discontent among the masses rousing them to fever pitch by wild oratory, in an attempt to be voted into office
+foments = instigate or stir up(an undesirable violent sentiment of course of action.)
+fever pitch = a state of extreme excitement - "the football crowd was at fever pitch"
+instigate = bring about or initiate(an action or event)
+          = incite someone to do something, especially bad.
+incite = encourage or stir up(violent or unlawful behaviour)
+demagougery(gogery)
+(adj) demagougic(jic)
+
+dermatologis = derma =skin = logos = science;
+(adj) - dermatological;
+hypodermic = needle penetrates under the skin(Gree hypos = under)
+taxidermist whose work is taxidermy = prepares, stuffs, mounts the skins of animals.
+pachyderm = is an animal with unusually thick skin, like an elephant, hippopotamus or rhinoceros
+dermatitis = is the general namme of any skin inflammation, irritation or infection
+
+Ophthalmologist = Greek - Ophthalmos = eye - earlier title for this physician still used is oculist - Latin oculus = eye
+ocular = an adjective that refers to eye
+monocle = a lens for one eye
+binaculars - field glasses that increase the range of two eyes.
+inoculate = When you are inoculated with a disease, an "eye", puncture, or a hole is made in your skin through which serum is injected.
+
+practitioners who deal with eye - optometrist and optician
+optometrists = measure vision, test for glaucoma, prescribe and fit glasses.
+opticians fill an optometrist's or ophthalmologist's prescription, grinding lenses according to specification; they don't examine patients;
+
+optometrist - Greek opsis, optikos, sight or vision, with metron, measurement, specialty is optometry.
+optician = opsis, optikos, ician, specialty is optics.
+Adjectives = optometrical, optical, optometric 
+
+treatis = "a written work dealing formally and systematically with a subject"
+
+orthopedist - Greek orthos = straight or correct and paidos = child; => by etymology strightens children
+
+orthodontia = straightening of teeth. = orthos+odontos = tooth; - orthodontist = specializes is in improving your bite, retracting buck teeth, by means of braces or other techniques.
+
+cardiologist - Greek cardia = heart;cardiograph, cardiac = some malfunctioning of heart;
+
+Neurologist - Greek neuron = nerve
+adj - neurological
+neuralgia = acute pain along the nerves and their branches. - algos = pain;
+neuritis = is an inflammation of the nerves;
+neurosis = neuron+osis(a suffix meanig abnormal or diseased condition), is not despite its etymology a disorder of the nerves, but an illness characterized by excessive use of energy for unproductive purpose so that personality development is hindered or stopped.
+neurotic = is a term for a person suffering from neurosis.
+
+psychatrist = Greek = psyche = spirit, soul, mind;
+psychosis = A full blown mental disorder - osis = abnormal
+psychotic - is both noun and adj like neurotic having psychosis
+psychiatry=specialty
+a true psychotic has lost contact with reality.
+
+podiatry
+
+geriatrics = related to old-age, geriatrician, similar to pediatrician
+geras = Greek, old age
+
+pedodontia = study of child teeth care
+cardialgia = heart burn
+odontalgia = 
+nostos = Greek for return(home) - nostalgia;
+
+stuffy = (of a place) lacking fresh air or ventilation, coventional, narrow minded
+pedantic
+pedant = a person who is excessively concerned with minor details and rules or with displaying academic learning. - "the royal palace (some pedants would say the ex-royal palace)"
+
+colloquialism = "Have you got is a good idiomatic English--I use it in speech without thinkng about it and would write it if colloquialism seemed appropriate to the passage"
+colloquial = (of language) used in ordinary or familiar conversation; not formal or literary; - "colloquial and everyday language"
+
+"No one loves you except me" - this is because, except is a preposition - it requires an objective pronoun(me)
+
+"Please lie down" - "lay" is wrong, coz lay means to place - please lay your hand on mine is correct, whereas it doesn't give the meaning of recline = to lie, lean back in a relaxed positioin.
+Does the usage square with your own language patterns?
+
+disposition - "English languge shows some disposition to get rid of whom altogether" - a person's inherent qualities of mind and character - "a sweet-natured girl of a placid disposition",   the way in which something is placed or arranged, especially in relation to other things. - "the plan shows the disposition of the rooms"
+
+The judge sentensed the murderer to be hanged - that is a picture is hung whereas a person is hanged - if such action is intended to bring about an untimely demise.
+
+Take two spoonfuls/cupsfuls of this medicine every three hours.(Note it is not spoonsful/cupsful - if 2 separate spoons, you may use 2 spoons full)
+
+Your words seem to infer that Jack is a liar - this is wrong;
+infer doesn't mean hint or suggest.
+It means to draw a conclusion from another's words.
+so imply is the best fit here.
+
+The shall-will differences were inveted out of whole cloth by text-book writers of the 1800s.
+
+Go slow - slow here is both adj and adverb. - This is right.
+concede = admit or agree that something is true after first denying or resisting it.
+"I had to concede that I'd overreacted."
+         = surrender - "in 475 the emperor conceded the Auvergne to Euric"
+
+women - alumnae, male - alumni
+alumna, alumnous
+
+dowager = a widow with a title or property derived from her late husband.
+seedy = sordid and disreputable. - "his seedy affair with a soft-porn starlet", dated = unwell - she felt weak and seedy
+handout = a quantity of financial or other material aid given to a person or organization; a piece of printed information provided free of charge, especially to accompany a lecture or advertise something; leaflet,pamphlet
+whined = long, high-pitched complaining cry
+matron = a woman in charge of domestic and medical arrangements at a boarding school or other institution., 
+       = an older married woman, especially one who is staid or dignified. "respectable suburban matrons"
+
+
+
+Sesssion - 7
+
+An ancient Greek mused about the meaning of life and phylosophy was born.
+muse = (noun)inspiration, verb - be absorbed in thought
+mite = very small amount
+     = a small child or animal, especially when regarded as an object of sympathy. "the poor little mite looks half-starved"
+
+psychoanalyst
+repressions = the action of subduing someone or something by force, the restraint, prevention, or inhibition of a feeling, quality, etc.
+
+bones and blood vessels
+osteopath = massage therapist etc.
+
+joints and articulations
+chiropractor = maintaining the structural and functional integrity of the nervous system.
+podiatrist = treats minor foot ailments - corns, calluses, bunions, fallen arches etc. and may perform minor surgery
+corns = a small, painful area of thickened skin on the foot, especially on the toes, caused by pressure.
+callus = a thickened and hardened part of the skin or soft tissue, especially in an area that has been subjected to friction.
+        = a hard formation of tissue, especially new tissue formed over a wound. - "the exposed surface will quickly form healing callus"
+bunions = the exposed surface will quickly form healing callus
+
+fallen arches = flat foot
+graphologist
+gerontologist
+
+Session 8
+
+People may be called psychic, if they seem to possess a sixth sense.
+A person's disturbance is psychic if it is more emotional or mental than physical.
+
+pathos - Greek suffering or disease -> psychopathic
+
+rigged
+rig = provide (a sailing boat) with sails and rigging.
+    = synonyms:	equip, kit out, fit out/up, supply, outfit, furnish, accoutre, array, provide, provision, stock, arm
+rig = set up (equipment or a device or structure), typically in a makeshift or hasty way - "he had rigged up a sort of tent"
+rig = provide (someone) with clothes of a particular type - "a cavalry regiment rigged out in green and gold"
+cavalry = (in the past) soldiers who fought on horsebac; modern soldiers who fight in armoured vehicles - "a cavalry regiment"
+
+expedition = a journey undertaken by a group of people with a particular purpose, especially that of exploration, research, or war;
+           = promptness or speed in doing something - "the landlord shall remedy the defects with all possible expedition"
+convoy = 
+debacle= a sudden and ignominious failure; a fiasco. - "the only man to reach double figures in the second-innings debacle"
+ignominious = "deserving or causing public disgrace or shame." - humiliating - "no other party risked ignominious defeat"
+soma = Greek - body - psychosomatic = an adjective that delineates the powerful influence that mind, especially the unconcious, has on bodily diseases.
+delineate = describe or portray(something) precisely. -  "the law should delineate and prohibit behaviour which is socially abhorrent"
+          = indicate the exact position of (a border or boundary). - "his finger found a precisely outlined section delineated in red marker"
+insofar = variant spelling of so far as - a psychosomatic disorder actually exists insofar as symptoms are concerned.
+heart palpitations = noticeably rapid, irregular heart beats.
+without any organic cause.
+vanish like a light snow that is exposed to strong sunlight
+resentments = bitter indignation at having been treated unfairly.
+indignation = anger or annoyance provoked by what is perceived as unfair treatment.
+
+far-fetched = unlikely and unconvincing; implausible. - "the theory sounded bizarre and far-fetched"
+approbation = approval or praise - "a term of approbation"
+            = synonyms:	approval, acceptance, assent, endorsement, encouragement, recognition, appreciation, support, respect, admiration, commendation, congratulations;
+probation = the release of an offender from detention, subject to a period of good behaviour under supervision; - "I went to court and was put on probation"
+          = a process of testing or observing the character or abilities of a person who is new to a role or job.
+
+psychogenetic = genesis = birth or origin - Greek
+"work out" - this is the term used in psychoanalytic parlance
+parlance = a particular way of speaking or using words, especially a way common to those with a particular job or interest. - "dated terms that were once in common parlance"
+dated = marked with a date, old-fashioned
+reliving = live through (an experience or feeling, especially an unpleasant one) again in one's imagination or memory. - "he broke down sobbing as he relived the attack"
+
+Gestalt = an organized whole perceived as more than sum of its parts.
+bioenergetics
+transactional analysis = (noun) a system of popular psychology based on the idea that one's behaviour and social relationships reflect an interchange between parental (critical and nurturing), adult (rational), and childlike (intuitive and dependent) aspects of personality established early in life.
+
+psychotherapist, therapist = modern for of psychoanalyst;
+psychotherapeutic(adj)
+misdemeanor = a minor wrongdoing. - "the player can expect a suspension for his latest misdemeanour"
+            = a non-indictable offence, regarded in the US (and formerly in the UK) as less serious than a felony. - "he pleaded guilty to misdemeanours"
+
+indictable = (of an offence) rendering the person who commits it liable to be charged with a serious crime that warrants a trial by jury. - "company law contains a total of 138 indictable offences"
+
+stinger = an insect or animal that stings, such as a bee or jellyfish.
+        = a device consisting of a spiked metal ribbon that is placed across a road to stop vehicles by puncturing their tyres.
+
+belly flops hard
+flop = fall, move, or hang in a loose and ungainly way.
+
+paraphrasing = express the meaning of (something written or spoken) using different words, especially to achieve greater clarity, 
+               rewording of something written or spoken.
+
+ic = adjective suffix
+psychic=pertaining to mind; extrasensory
+psychopath = person lacking inner conscience or inner censor
+
+pedodontist = specializes in the care of children's teeth
+
+periodontist = a gum specialist
+peri = aroud or surrounding
+endodontist = specializes in the work on the pulp of the tooth and in root canal therapy
+endon = Greek - inner, within
+
+exodontist = what do you suppose, therefore, is the work in which this practitioner specializes?
+
+optometris - opsis, optikos, view, vision + metron = measurement
+thermometer = therme -Greek = heat
+barometer = baros - Greek = weight
+sphygomanometer = sphygmos -Greek = pulse
+
+Osteopath - Greek = osteon = bone
+podiastrist - podos, pous = foot
+octopus - pous , okto = eight
+platypus = a strange water mammal with a duck's bill, webbed feet, and beaver-like tail that reprouduces by laying eggs
+         = Greek platys = flat, hence flatfoot!
+bill = beak
+beaver-like = a rat found in northen america
+podium = a speaker's platform - etymologically a place for the foot.
+ium - suffix often signifies "place where," as in gymnasium, stadium, auditorium, etc.
+tripod
+chiropodist = Greek cheir = hand ---- earlier title for a podiatrist, and still often used.
+sedentary occupations = (of a person) tending to spend much time seated; somewhat inactive - "we all walk a certain amount every day even if we are sedentary"
+chiropractic
+chiropody = the treatment of the feet and their ailments.
+chriopractors heal with their hands.
+chirography = handwriting...
+chirographer = an expert in writing by hand, or in penmanship.
+
+sediments = matter that settles to the bottom of a liquid; dregs.
+          = settle as sediment
+sedate = adj and verb - calm or dull
+mancy - Greek suffix meaning fortelling or prediction 
+chiromancy = the supposed prediction of a person's future from interpreting the lines on the palms of their hands; palmistry.
+chiromancer, chiromantic
+
+ex = Etymology - out
+
+
+Session 9:
+
+graphein =  Greek verb - to write
+
+calligraphy = decorative handwriting or handwritten lettering. - "a label written in admirable calligraphy"
+place cards = a card bearing a person's name, placed on a table to indicate where they should sit. 
+revival = an improvement in the condition, strength, or fortunes of someone or something.
+kallos = Greek = beauty
+
+cacography = bad, scrawly, or illegible handwriting
+kakos = Greek - bad, harsh
+
+photos = light
+phone = sound
+tele = distance
+bios = life
+geras - geron = old man
+Latin - senex = old
+senail, senescent, senior, senate are built on this
+senail = showing signs of physical or mental deterioration that generally marks very old age.
+       - noun is senaility
+senescent = aging, growing old
+           - noun is senescence
+note: adolescent = growing into an adult, convalescent = growing healthy again.
+obsolescent = growing or becoming obsoleten
+
+senate = a council of older(originally), presumably wiser, citizens
+
+Etymology
+
+er - one who
+pyge = buttocks 
+kakos = bad, harsh
+escent = growing, becoming
+
+calliphygian = possessed of beatiful buttocks
+illegible = not clear enough to be read. - "his handwriting is totally illegible"
+          = synonyms:	unreadable, indecipherable, unintelligible, hard to read;
+            antonyms:	legible, clear
+
+tight slacks are best worn by those with calliphygian anatomy
+slacks = casual trousers.
+
+vivid = producing powerful feelings or strong, clear images in the mind, (of a colour) intensely deep or bright.
+      - "memories of that evening were still vivid", "the rhododendron bush provides a vivid splash of mauve"
+
+
+octoginta = 80
+octogenarian = a person between 80 and 89 years old
+cacapygian = 
+cacaphony
+field glass
+
+
+take a special notice of them
+assiduously = It means they're careful, methodical and very persistent. Assiduous comes from two Latin words: assiduus, meaning "busy incessant, continual or constant," and assidere, meaning "to sit down to" something.
+
+incessant = (of something regarded as unpleasant) continuing without pause or interruption. - "the incessant beat of the music"
+
+
+
+repeatedly counseled = 
+uncanny foresight = 
+canny = having or showing shrewdness and good judgement, especially in money or business matters; pleasant or nice - she is a canny lass
+raw deal = a harsh treatment
+lass = a girl, young woman
+inner moral censor
+gratifications of desires
+lacking in sexual restraint
+sociapath = to indicate the absense of social conscience
+an entrancing word that also derives from kallos is calliphygian
+entrance = fill (someone) with wonder and delight, holding their entire attention, cast a spell on(hypnotize, spellbind)
+entrenched = establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. - "ageism is entrenched in our society"
+entrench = establish (a military force) in trenches or other fortified positions. - "the corps was now fully entrenched on the Right Bank"
+corps = a main subdivision of an army in the field, consisting of two or more divisions.
+vogue = the prevailing fashion or style at a particular time, popular or fashionable
+plaintiff = a person who brings a case against another in a court of law.
+          = the plaintiff commenced an action for damages.
+
+a person so endowed
+dispair = the complete loss or absence of hope; lose or be without hope.
+disparity = d-i-s-p-a-r-i-t-y = a great difference
+
+
+a collective human caprice than on the restrictions found in the textbooks
+
+slime = a person who brings a case against another in a court of law, synonym = mud
+grudgingly conforms
+"Who broke my best vase"
+vase = a decorative container without handles, typically made of glass or china and used as an ornament or for displaying cut flowers.
+sound prissy = fussily and excessively respectable. - "a middle-class family with two prissy children"
+
+grammarian
+linguistic calisthenics = gymnastic exercises to achieve bodily fitness and grace of movement. kallos+sthenos(strength)
+
+I never saw a man get so mad...
+mad is a lot stronger than mad, but not quite violent as furious or enraged.
+
+authoritative dictionary
+
+it is time you stop plaguing your conscience with trivialities
+plaguing = cause continual trouble or distress to., pester or harass (someone) continually, "he was continuously plaguing her with questions", pester
+
+"Do you prophesy another world war?"
+prophecy = a prediction of what will happen in the future. - "a bleak prophecy of war and ruin"
+prophesy
+similar to advice and advise
+
+bugbear = a cause of obsessive fear, anxiety, or irritation. - "the biggest villain is that adman's bugbear, saturated fat"
+        = (archaic) an imaginary being invoked to frighten children, typically a sort of hobgoblin supposed to devour them.
+devour = eat (food or prey) hungrily or quickly; read quickly and eagerly.
+
+infinitive = is a verb preceded by to; to succeed, to fail, to remember
+
+unconscionable = not acceptable according to conscince
+And modern writers are equally partial to the construction.
+partial = "favouring one side in a dispute above the other; biased."
+To bring this report to the minute
+outworn = out dated, no longer usable or serviceable because of excessive wear.
+
+
+
+
+placid = calm
+
 
 leapfrog = surpass or overtake another to move into a leading or dominant position.
 "she leapfrogged into a sales position"
@@ -334,41 +788,578 @@ vault = a roof in the form of an arch or a series of arches, dome
       = a large room or chamber used for storage, especially an underground one. - "a wine vault".
      verb .... - provide with an arched roof or roofs. - "a vaulted arcade"
 "a Gothic ribbed vault"
-unfathenable
+unfathomable = incapable of being fully explored or understood.
 Gothic = German related.
-salacious
+salacious = having or conveying undue or indecent interest in sexual matters. - "salacious stories"
+          = synonyms:	pornographic, obscene, indecent, improper, indelicate, crude, lewd, erotic, titillating, arousing, suggestive, sexy, risqué, coarse, vulgar, gross, dirty, ribald, smutty, filthy, bawdy, earthy;
+
 deludenesss
+delude = mislead; make (someone) believe something that is not true.
+
 sneak = to complain about someone's misdoings
 "Ethel was the form sneak and goody-goody"
-homage
-tuck box
-skeem
-orchid
-homopal
+homage = special honor or respect shown publicly
+allegiance = loyalty or commitment to a superior group or cause.
+feudalism = Crown - nobility - tanants(Vassals) - Peasants(villeins or serfs)
+fugitive = (noun) a person who has escaped from captivity or is in hiding. - "fugitives from justice"
+         = (adj) quick to dissapear; fleeting; "the fugitive effects of light" 
+tuck box = a box of delicacies from home
+orchid - orchidaceously
+homopal = 
 don't recongnize failure
-preposters 
+preposterous = utterly ubsurd or ridiculous. contrary to reason or common sense.
 defy you to beat that
-10 caninga
-sepatlingam
+caning = beat with a cane
 moustache = mush...
-rougue
-fet
-fed
-roadcock
-brute
-flicking girlfriends
-elequition
+rougue = a red powder or cream used as a cosmetic for colouring the cheeks or lips. - "she wore patches of rouge on her cheeks"
+ 
+fed =  
+fet = (obsolete) to fetch; (obsolete) A piece
+roadcock =  
+brute = a savagely violent man or animal.
+      = an animal as opposed to a human being.
+
+flicking girlfriends = strike or propel (something) with a sudden quick movement of the fingers; make or cause to make a sudden quick movement.
+; swish, twitch
+brandish = wave or flourish (something, especially a weapon) as a threat or in anger or excitement.
+         = "a man leaped out brandishing a knife"
+
+elocution = the skill of clear and expressive speech, especially of distinct pronunciation and articulation; pronunciation
 thou shall be schooled in the fine art of chickery.
-prefect 
-siding
-squat
+chickery =
+siding = 
+squat = crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs.
+stout = (of a person) rather fat or of heavy build.
+      = (of an object) strong and thick.
+
+
 
 debris(pronounced debree) = garbage scattered around(when there is an earthquake, building collapse etc(et cetera)) 
-earmarked = 
+earmarked = designate (funds or resources) for a particular purpose. - "the cash had been earmarked for a big expansion of the programme"
+          = mark the ear of (a domesticated animal) as a sign of ownership or identity.
+
 academician = 
-splintered =
+splintered = break or cause to break into small sharp fragments. - "the soap box splintered"
+           = (of a group or organization) separate into smaller units, typically as a result of disagreement. - "the party had begun to splinter into factions"
+
 interim budget = 
-unraveled
-collosal
-touted =  
-oped
+interim = interlude
+unraveled = solve something puzzling, unentangle, disentangle
+colossal = extremely large 
+touted =  attempt to sell(something) by a direct or persistent approach, "sanjay was touting his wares" ,  attempt to persuade people of the merits of - " she was touted as a potential Prime Minister"
+oped = open(archaic)
+
+
+
+
+
+
+Session 11-13
+
+scientst = "one who knows"
+
+
+anthropologist
+whirling
+mystifying = utterly bewilder or perplex (someone). - "I was completely mystified by his disappearance"
+           = make obscure or mysterious. - "lawyers who mystify the legal system so that laymen find it unintelligible"
+
+
+denizen of water = a person, animal, or plant that lives or is found in a particular place, inhabitant
+mosses = in kannada - paachi, algae
+blossoms
+fish to fowl
+fowl = domestic cock or hen;
+entomologist
+
+intangible = unable to be touched; not having the physical presence - "the moonlight made things seem intangible"
+elusive = difficult to find, catch, or achieve; difficult to remember
+
+hodgepodge = hotchpotch = a confused mixture - "a hotchpotch of uncoordinated services"
+
+quandary = a state of perplexity or uncertainty over what to do in a difficult situation, a difficult situation; a practical dilemma.
+"a legal quandary"
+
+philologist
+semanticist = is intersted in determining the phsychological causes and effects of what people say and write
+sociologist
+
+
+astronomer = astron - Greek = star + nomos = arrangement, law or order.
+
+astronomical is applied to any tremendously large figure;
+
+astronaut = nautes - Greek = sailor
+slike = (intransitive) To crawl; creep; slide; 
+      = To make sleek or smooth
+      = (transitive) to rend asunder; cleave
+rend = tear (something) into pieces;
+     = synonyms:	tear/rip apart, tear/rip in two, tear/rip to pieces, split, rupture, sever, separate;
+     = (archaic) wrench (something) violently. - "he rent the branch out of the tree";
+     = cause great emotional pain to. - "you tell me this in order to make me able to betray you without rending my heart"
+
+asunder(archaic) = apart - "those whom God hath joined together let no man put asunder"
+
+cleave = split or sever (something), especially along a natural line or grain; split (a molecule) by breaking a particular chemical bond.
+
+frollicking = play or move about in a cheerful and lively way
+reivigorate = give new energy or strength to.
+
+"""""""""""""
+lunge = a sudden forward thrust of the body, typically with an arm outstretched to attack someone or seize something. = thrust, pounce, dive, jump, spring, leap, rush, grab - "Harry made a lunge for the dagger", "Lucy made a lunge for Gabriel's wrist"
+dagger = a short knife with a pointed and edged blade, used as a weapon.
+skinneds
+swindle = deceit, fraud, trick, chicanery
+""""""""""""""
+
+cosmonaut - by Russians for astronaut
+
+Nautical - nautes - derived from naus - ship a root used in nausea - etymologicall ship sickness or sea sickness
+
+Aster = a star shaped flower
+
+autonomy = from Greek nomos = arrangements, law or order
+autos = self
+
+metronome = metron+nomos = Piano player - beginner uses it to guide timing
+
+geology
+Greek - ge(-geo) = earth
+
+Name George is derived from ge and ergon(work) - the first George was an earth worker or a farmer
+
+biopsy = opsis, optikos, view, vision
+
+malignancy
+grievous = (of something bad) very severe or serious. "his death was a grievous blow"
+
+
+botanist = Greek - botane = plant
+zoologist = Greek - zoion = animal
+
+zodiac - it contains, in parts, Latin names for various animals - hence its derivation from zoion, animal
+ram - aries = an uncastrated male sheep.
+castrate = remove testicles
+emasculate = deprive (a man) of his male role or identity.
+zodiacal 
+
+cosmonaut = sailer of the start
+
+
+Are nautical maneuvers carried on at sea? - also manoeuvere
+
+Does a disastrous earth quake take huge toll of life and property?
+astrophysics = dealing with composition of celestial bodies
+
+plight = a dangerous, difficult, or otherwise unfortunate situation. - "we must direct our efforts towards relieving the plight of children living in poverty"
+lurking = be or remain hidden so as to wait in ambush for someone or something.
+        = (of an unpleasant quality) be present in a latent or barely discernible state, although still presenting a threat.
+
+ambush = a surprise attack by people lying in wait in a concealed position; make a surprise attack on (someone) from a concealed position.
+
+lunatic fringe 
+fringe = an ornamental border of threads left loose or formed into tassels or twists, used to edge clothing or material;
+       = the front part of someone's hair, cut so as to hang over the forehead.
+       = the outer, marginal, or extreme part of an area, group, or sphere of activity.
+       "his uncles were on the fringes of crooked activity"
+       synonyms:	unconventional, unorthodox, offbeat, alternative, avant-garde, experimental, innovative, innovatory, radical, extreme; More
+       antonyms:	mainstream, middle
+
+reins = a long, narrow strap attached at one end to a horse's bit, typically used in pairs to guide or check a horse in riding or driving.
+      = the power to direct and control. - "a new chairperson will soon take over the reins"
+      = check or guide (a horse) by pulling on its reins. - "he reined in his horse and waited"
+      = keep under control; restrain. - "with an effort, she reined back her impatience"
+ 
+frantic = distraught with fear, anxiety, or other emotion.
+        = conducted in a hurried, excited, and disorganized way. - "frantic attempts to resuscitate the girl"
+resuscitate = To resuscitate is to revive a person who has lost consciousness
+keep the equation between the employees at bay
+defendant
+
+
+Session 13
+
+beetles, wasps - segmented creatures
+entomology = Greek en- in + tome = cutting
+
+insects - Latin - in = in,  sectus = a form of the verb meaning to cut
+
+ek = Greek - out
+tonsillectomy - (the tonsils)
+appendectomy
+mastectomy - the breast
+hysterectomy - the uterus
+prostatectomy
+
+kentron - Greek = center
+the Latin root is centrum
+
+eccentric = out of the center, hence deviating from the normal behaviour, attitudes, etc., or unconventional, odd strange.
+eccentricity(noun)
+
+the Greek prefix a makes the root negetive.
+atom = a+tome
+Greek prefix ana - has number of meanings, one of which is up, as in anatomy = cutting up
+
+
+tome - original any book that was a part of a larger work of many volumes was called a tome, etymologically a part cut from the whole.
+todat tome designates often disparagingly an exceptionally large book, or one that is heavy and dull in content.
+
+dicha - Greek prefix = in two, dichotomy = a splitting into two. It is also employed as a non-technical term, as when we refer to dichotomy in the life of a man who is a government clerk all day and a night-school teacher after working hours, so that, his life is split into two parts.
+Verb is dichotomize; adj - dichotomous
+Dichotomous thinking is that sort that divides everything into two parts, good and bad; white and black; etc.
+
+epitome = cut or through a book so that you can get to its essence, the very heart of the idea contained in it. What you have is an epitome, a condensation of the whole.
+
+An epitome may refer to a summary, condensation, or abridgment of language, as is "Let me have an epitome of the book," or "Give me the epitome of his speech"
+- That one act epitomizes her philosophy of life.
+
+
+logos also can mean, word or speech as it does in philology - etymologically - the love of words
+from Greek philein, to love, plus logos = or more commonly - linguistic = Latin lingua = tongue
+
+philanthropy = love of mankind
+philander = it is not of course exclusively the mail province.
+philanderer
+philosophy - sophos- Greek =  wisdom
+philadelphia = city of brotherly love, adelphos = Greek = brother.
+philharmonic = love of music or harmony = harmonia - Greek  =  harmony
+philter = a rearly used word is a love potion
+potion = a liquid with healing, magical, or poisonous properties, synonym - concoction, dicoction
+concoction = a mixture of various ingredients or elements., an elaborate story especially a fabricated one.
+aphrodisiac = whatever arouses sexual desire - From Aphrodite - Greek goddess of love and beauty.
+            - it is an adjective as well as a noun, but aphrodisiacal is also used.
+bibliophile = book collector - one who loves books as collectibles, admiring their binding, typography, illustrations, rarity, etc.
+biblion - Greek = book
+Anglophile = fond of British people, Latin - Anglus = British
+Semantics - as orthopedics is a singular noun, Semantics is an exciting study
+As a plural - The semantics of your thinking are all wrong.
+
+Sociology - socios = companion
+associate
+social
+socialize
+society
+sociable
+
+asocial
+
+detrimental = tending to cause harm
+
+epi = on, upon
+sophos = wise
+Anglus=Englis
+
+sophomore student = 2nd year student
+sophose+moron :)
+
+wordly-wise = probably sophologous?
+monolingual, bilingual..multilingual
+
+multus - Latin = multiple
+multitude = a large number of people or things. - "a multitude of medical conditions are due to being overweight"
+
+Francophile
+Russophile
+Hispanophile
+Germophile
+Nipponophile
+Sinophile
+
+androphile
+genypile ---- ? one who loves women?
+pedophile
+one who loves plants, animals ....?
+
+Ideas cannot exist without verbalization
+
+Oedipus complex - (in Freudian theory) the complex of emotions aroused in a young child, typically around the age of four, by an unconscious sexual desire for the parent of the opposite sex and wish to exclude the parent of the same sex. (The term was originally applied to boys, the equivalent in girls being called the Electra complex .).
+
+cyclotron = an apparatus in which charged atomic and subatomic particles are accelerated by an alternating electric field while following an outward spiral or circular path in a magnetic field.
+
+clutter up your mind
+Your doubt is well-founded - (especially of a suspicion or belief) based on good evidence or reasons.
+                           = "their apprehensions were well founded"
+synonyms:	justifiable, justified, warranted, legitimate, defensible, supportable, sustainable, tenable, well grounded, valid, admissible, allowable, understandable, excusable, warrantable, acceptable, reasonable, logical, sensible, sound, just, bona fide, genuine, plausible, credible, believable
+"they have a well-founded fear of persecution if they are deported"
+antonyms:	unjustified, groundless
+
+by reading on a wide range of new subject...
+
+piqued = arouse (interest or curiosity).
+"with his scientific curiosity piqued, he was looking forward to being able to analyse his find"
+synonyms:	stimulate, arouse, rouse, provoke, whet, awaken, excite, kindle, stir, spur, intrigue, galvanize
+"his scientific curiosity was piqued"
+       = feel irritated or resentful.
+"she was piqued by his curtness"
+synonyms:	irritate, annoy, bother, vex, provoke, displease, upset, offend, affront, anger, exasperate, infuriate, gall, irk, get someone's back up, disgruntle, nettle, needle, ruffle, get on someone's nerves, ruffle someone's feathers, make someone's hackles rise, rub up the wrong way; informalpeeve, aggravate, miff, rile, get, get to, bug, get under someone's skin, get in someone's hair, get up someone's nose, hack off, get someone's goat, wind up; informalnark, get on someone's wick, give someone the hump, get across; informaltick off, rankle, ride, gravel, bum out; vulgar slangpiss off; rareexacerbate, hump, rasp
+"she was piqued by Stephen's neglect of her".
+
+primer - A Primer of behavioural pshychology = an elementary textbook that serves as an introduction to a subject of study or is used for teaching children to read.
+       = a substance used as a preparatory coat on wood, metal, or canvas, especially to prevent the absorption of subsequent layers of paint or the development of rust. .... and many more related meanings
+
+spool = (noun) a cylindrical device on which film, magnetic tape, thread, or other flexible materials can be wound; a reel.
+      = (verb) wind (magnetic tape, thread, etc.) on to a spool.
+
+cartridge = a container holding a spool of photographic film, a quantity of ink, etc., designed for insertion into a mechanism.
+          = a casing containing a charge and a bullet or shot for small arms or an explosive charge for blasting.
+
+companion = comes from - Latin com = with, panis = bread - if you are social, you enjoy breaking bread with companions.
+pantry also comes from panis
+
+"""""""""""""""
+stir the pot = 
+calcify = harden by deposition of or conversion into calcium carbonate or some other insoluble calcium compounds.
+steadfast = resolutely or dutifully firm and unwavering. - "steadfast loyalty"
+          = synonyms:	loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady, true, constant, staunch, trusty 
+            antonyms:	disloyal, irresolute
+
+dubious = hesitating or doubting; - "I was rather dubious about the whole idea"
+        = not to be relied upon; suspect. - "extremely dubious assumptions"
+
+benevolent = well meaning and kindly. - "he was something of a benevolent despot"
+           = (of an organization) serving a charitable rather than a profit-making purpose. - "a benevolent fund"
+
+despot = a ruler or other person who holds absolute power, typically one who exercises it in a cruel or oppressive way.
+
+dormant = (of an animal) having normal physical functions suspended or slowed down for a period of time; in or as if in a deep sleep.
+aghast = filled with horror or shock. - "she winced, aghast at his cruelty"
+
+intrusive = causing disruption or annoyance through being unwelcome or uninvited. - "that was an intrusive question"
+          = synonyms:	intruding, invasive, obtrusive, interrupting, trespassing, unwanted, unwelcome;
+            antonyms:	low-key
+
+enduring = lasting over a period of time; durable. - "he formed a number of enduring relationships with women"
+endure = suffer (something painful or difficult) patiently. - "it seemed impossible that anyone could endure such pain"
+
+
+
+expat bubbles
+expat = a person who lives outside their native country.
+
+leg up =
+leg-up = an act of helping someone to mount a horse or high object. - "give me a leg-up over the wall"
+       = an act of helping someone or something to improve their situation. - "he gave hip hop a much-needed leg-up"
+
+connatation = an idea or feeling which a word invokes for a person in addition to its literal or primary meaning. - "the word ‘discipline’ has unhappy connotations of punishment and repression"
+
+endemic = (of a disease or condition) regularly found among particular people or in a certain area. - "complacency is endemic in industry today"
+
+indemic = 
+verbatim = in exactly the same words as were used originally. - "subjects were instructed to recall the passage verbatim"
+         = synonyms:	word for word, letter for letter, line for line, to the letter, literally, exactly, precisely, in every detail, closely, faithfully, religiously, rigorously, punctiliously, with strict attention to detail, strictly;
+
+"""""""""""""""
+
+breaking bread - This term occurs in numerous places in the New Testament, where it sometimes means to share bread and other times to distribute food to others. In later usage it came to refer to the sacramental bread of Communion in Christian services. The latter survives in the spiritual hymn, "Let Us Break Bread Together."
+
+sacrament = (in the Christian Church) a ceremony regarded as imparting spiritual grace, in particular:
+impart = make (information) known, bestow (a quality).
+
+carefree
+outmoded = old-fashioned
+nonplused - Dictionary definition and meaning for word nonplused. (adj) filled with bewilderment. Synonyms : at a loss , nonplussed , puzzled. at a loss to understand those remarks. puzzled that she left without saying goodbye.
+
+nonplussed = so surprised and confused that one is unsure how to react.
+
+"Henry looked completely nonplussed"
+schoolteacher edict = an official order or proclamation issued by a person in authority.
+                    = "Clovis issued an edict protecting Church property"
+synonyms:	decree, order, command, commandment, mandate, proclamation, pronouncement, dictum, dictate, fiat, promulgation, precept; law, statute, act, enactment, bill, ordinance, regulation, rule, ruling, injunction, manifesto; ukase; pronunciamento; rarefirman, decretal, irade, rescript
+"oil exploration is prohibited by government edict"
+
+the stars of play are principals - the main actors.
+
+erudite and subtle
+erudite = (adjective) having or showing great knowledge or learning.
+         = "Ken could turn any conversation into an erudite discussion"
+synonyms:	learned, scholarly, well educated, knowledgeable, well read, widely read, well versed, well informed, lettered, cultured, cultivated, civilized, intellectual; intelligent, clever, academic, literary, bookish, highbrow, studious, sage, wise, sagacious, discerning, donnish, cerebral, enlightened, illuminated, sophisticated, pedantic; esoteric, obscure, recondite; informalbrainy, genius; raresapient
+"he was so erudite that only men who were his equals in scholarship could understand him"
+
+workhorse of the vocabulary
+were a just a shade more conservative
+lousy = very poor or bad, infested with lice
+
+stigmatize the speaker as uneducated;
+stigma = a mark of disgrace associated with a particular circumstance, quality, or person.
+"the stigma of mental disorder"
+synonyms:	shame, disgrace, dishonour; stain, taint, blot, blot on one's escutcheon, blemish, brand, mark, slur; literarysmirch
+"the stigma of bankruptcy"
+       = a visible sign or characteristic of a disease.
+"knee deformities or other stigmata of childhood rickets"
+a mark or spot on the skin.
+       = (in a flower) the part of a pistil that receives the pollen during pollination.
+
+stigmatize = describe or regard as worthy of disgrace or great disapproval.
+"the institution was stigmatized as a last resort for the destitute"
+           = mark with stigmata. "Francis, stigmatized in fashion as his Lord"
+             synonyms:	condemn, denounce; brand, label, mark out; disparage, vilify, pillory, pour scorn on, cast a slur on, defame, discredit "trade unionism was stigmatized as inimical to the interests of society"
+
+
+Session 14
+
+What kind of liar are you if you:
+falsehood
+vice = immoral or wicked behaviour. - have become habituated to your vice
+     = "an open sewer of vice and crime"
+synonyms:	immorality, wrongdoing, wrong, wickedness, badness, evil-doing, evil, iniquity, villainy, venality, impurity, corruption, corruptness, misconduct; sin, sinfulness, ungodliness, godlessness, unholiness, unrighteousness, profanity; depravity, degeneracy, turpitude, sordidity, perversion, pervertedness, dissolution, dissipation, debauchery, decadence, lasciviousness, lewdness, lechery, lecherousness, degradation; crime, transgression, offence, immoral act, evil act, act of wickedness, fall from grace; archaictrespass; rarepeccability, peccancy
+"people may be driven to vice by cruel social circumstances"
+
+pangs = a sudden sharp pain or painful emotion.
+      = "Lindsey experienced a sharp pang of guilt"
+synonyms:	pain, sharp pain, shooting pain, twinge, stab, spasm, ache, cramp
+"hunger pangs"
+qualm, misgiving, scruple, twinge, prick, dart, twitch, gnawing
+"Melissa felt a pang of remorse"
+
+suffer no pangs of conscience
+
+vicious = deliberately cruel or violent; immoral
+tell vicious lies
+
+cynic = a person who believes that people are motivated purely by self-interest rather than acting for honourable or unselfish reasons.
+lantern = 
+brash = 
+difference between fact and fancy
+impel =
+prevalent
+falsification
+all-too-human phenomenon
+
+propensity = an inclination or natural tendency to behave in a particular way.
+unsavory = disagreeable to taste, smell, or look at.- "they looked at the scanty, unsavoury portions of food doled out to them"
+
+notorious liar
+
+consummate liar - an expert liar
+
+Your ability is top-drawer
+your skill has, in short, reached the zenith of perfection...
+zenith = highest point 
+unwary = not cautious of possible dangers or problems.
+
+beyond redemption or salvation
+redemption = the action of saving or being saved from sin, error, or evil.
+           "God's plans for the redemption of his world"
+synonyms:	saving, saving/freeing from sin, vindication, absolution
+"God's redemption of his people"
+           = the action of regaining or gaining possession of something in exchange for payment, or clearing a debt.
+"the peasants found the terms of redemption unattractive"
+synonyms:	retrieval, recovery, reclamation, repossession, recoupment, return, rescue; repurchase
+"cash must be available for the redemption of possessions"
+exchange, swapping, bartering, cashing in, conversion, return, trade-in
+"the redemption of credit vouchers"
+paying off, paying back, discharge, clearing, squaring, honouring;
+archaicquittance
+"the redemption of the mortgage"
+fulfilment, carrying out, discharge, making good, execution, performing, accomplishment, achievement, observance, honouring, meeting, satisfying, adherence to
+"the redemption of his obligations"
+
+
+reclusive = avoiding company of other people, solitary
+
+incorrigible liar
+
+impervious to correction
+impervious = not allowing fluid to pass through, unable to be affected by
+
+inveterate liar = you are a victim of firmly fixed and deep-rooted habits. Telling untruths is as frequent and customary an activity as brushing your teeth in the morning, or having toast and coffee for breakfast. And almost as reflexive.
+
+congenital liar = your vice started when you were reposing in your mother's womb. - as if from birth ...NOTE:from birth
+repose = a state of rest, sleep, or tranquillity.
+
+chronic liar = no letup... no stopping, and often for special reasons, you lie continually.
+
+pathological liar = lying is a disease which no antibiotic can cure... you don't care about the differece between truth and lie.
+
+unconscionable liar = you never feel the slightest twinge of guilt. Totally unscrupulous, you are a dangerous person to get mixed up with.
+unscrupulous = having or showing no moral principles; not honest or fair. - "a crackdown on unscrupulous landlords"
+
+twinge = a sudden, sharp localized pain.
+       = synonyms:	pain, sharp pain, shooting pain, stab of pain, spasm, ache, throb; cramp, stitch; archaicthroe
+"she's complaining of twinges in her stomach"
+       = "stop the exercises if the tummy twinges"
+
+glib liar = we have learned from our unhappy past experience not to suspend our critical faculties when you are talking. We admire your nimble wit, but we listen with a skeptical ear.
+
+nimble = quick and light in movement or action; agile, (of the mind) able to think and understand quickly.
+
+egragious liar = your lies are so outstandingly hurtful that people gasp in amazement and disgust at hearing them.
+
+gasp = catch one's breath with an open mouth, owing to pain or astonishment, a convulsive catching of breath.
+     - "his breath was coming in gasps"
+     = synonyms:	pant, puff, blow, breath, inhalation, inspiration, drawing in of breath, choke, gulp (of air); exclamation, ejaculation
+     "a gasp of pain"
+convusion = a sudden, violent, irregular movement of the body, caused by involuntary contraction of muscles and associated especially with brain disorders such as epilepsy, the presence of certain toxins or other agents in the blood, or fever in children.
+          = a violent social or political upheaval.
+upheaval = a violent or sudden change or disruption to something. - "major upheavals in the financial markets"
+
+
+inveterate - an inveterate smoker - this adjective, like notorious, has an unfavourable connotation.
+
+chronic appendicitis
+unconscionalbe = without pangs or conscience - unconscionable cruelty to children.
+
+glib - smooth, suspiciously fluent, a glib witness
+consummate = perfect, highly skilled, consummage artistry at the keyboard.
+
+to be chronic invalid = ....?
+born with a clubfoot - A congenital deformity
+
+
+maim = wound or injure (a person or animal) so that part of the body is permanently damaged.
+compuction = a feeling of guilt or moral scruple that prevents or follows the doing of something bad.
+acme of perfection = the point at which something is at its best or most highly developed.
+
+periods of sobriety are few and very, very far between
+sobriety = state of being sober.
+
+""""""""""""""""""""
+chickened out = chicken out. slang disapproving. — phrasal verb with chicken uk /ˈtʃɪk.ɪn/ us /ˈtʃɪk.ɪn/ verb. › to decide not to do something because you are too frightened: I was going to go bungee jumping, but I chickened out. Cowardly.
+
+hallowed = honour as holy.
+         = make holy; consecrate.
+         = greatly revere and honour.
+
+consecrate = make or declare (something, typically a church) sacred; dedicate formally to a religious purpose.
+revere = feel deep respect or admiration for (something).
+reverence = deep respect for someone or something.
+revenant = a person who has returned, especially supposedly from the dead.
+"he was three hundred years old, a terrible living revenant"
+
+candidacy = 
+hit rock bottom
+gravel = a loose aggregation of small water-worn or pounded stones.
+
+jangling = make or cause to make a ringing metallic sound, typically a discordant one. - "a bell jangled loudly"
+         = (with reference to a person's nerves) set or be set on edge. - "now it's over my nerves are jangling"
+
+dope = a drug taken illegally for recreational purposes, especially cannabis or (US) heroin.
+dainty = delicately small and pretty.
+        = fastidious, especially concerning food.
+fastidious = very attentive to and concerned about accuracy and detail.
+           = very concerned about matters of cleanliness.
+
+deranged = mad; insane
+commotion = a state of confused and noisy disturbance. - "she was distracted by a commotion across the street"
+          = civil insurrection.
+insurrection = a violent uprising against an authority or government.
+
+dire consequences
+dire = extremely serious or urgent.
+
+rue = bitterly regret (something one has done or allowed to happen) and wish it undone. - "Ferguson will rue the day he turned down that offer"
+    = repentance, regret
+stray = move away aimlessly from a group or from the right course or place.
+
+functionary = a person who has to perform official functions or duties; an official. 
+bikini-clad pictures = 
+clad = clothed; - "they were clad in T-shirts and shorts"
+     = covering with cladding
+canter = a pace of a horse or other quadruped between a trot and a gallop, with not less than one foot on the ground at any time. - "I rode away at a canter"
+
+trot = (with reference to a horse or other quadruped) proceed or cause to proceed at a pace faster than a walk, lifting each diagonal pair of legs alternately.
+lope = walk or run with a long bounding stride. 
+lollop = move in an ungainly way in a series of clumsy paces or bounds. - "the bear lolloped along the path"
+gallop = the fastest pace of a horse or other quadruped, with all the feet off the ground together in each stride.
+""""""""""""""""
